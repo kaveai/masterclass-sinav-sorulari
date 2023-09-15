@@ -3,7 +3,7 @@
 
 Başvuru kabulü için size sorulan soruyu çözmenizden çok, o soruyu çözmek için ne kadar uğraştığınız önemlidir. Motivasyonu yüksek gençlerle çalışmak çok farklı, bunu biliyoruz, sizi önemsiyoruz ve bekliyoruz.
 
-### Altta 2 farklı alan ve bu alanların hepsinde 2'şer soru bulunmaktadır. Sizden beklediğimiz seçtiğiniz alandaki *bir* soruyu yapmanızdır. 
+### Altta 2 farklı alan ve bu alanların hepsinde 2'şer soru bulunmaktadır. Sizden beklediğimiz seçtiğiniz alandaki sadece bir soruyu yapmanızdır. 
  
 ## Alanlar ve Sorular
 - Uygulama Ağırlıklı Sorular
